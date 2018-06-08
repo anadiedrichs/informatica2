@@ -10,7 +10,7 @@ Práctico [en este enlace](https://docs.google.com/document/d/1qE9RnVWxhBHEBwiXE
 
 ## Otros temas
 
-[Máquinas de estado](statemachine/README.md)
+[Máquinas de estado](state-machine/README.md)
 
 [Timers y manejo tiempo](timers/README.md)
 
